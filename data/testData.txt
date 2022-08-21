@@ -1,0 +1,399 @@
+Simplify the below text:
+Complex input: Codeine phosphate and sulfate are marketed in the United States and Canada.
+Simplified output: It is marketed as the salts codeine sulfate and codeine phosphate.
+--separator--
+Simplify the below text:
+Complex input: When the Reichstag convened in September 1932, its first and only act was to pass a massive vote of no-confidence in Papen ’ s government.
+Simplified output: When the Reichstag met in September 1932, its only act was to pass a vote of no-confidence in Papen's government.
+--separator--
+Simplify the below text:
+Complex input: Leptospirosis (also known as Weil's disease, Weil's syndrome, canicola fever, canefield fever, nanukayami fever, 7-day fever, Rat Catcher's Yellows, Fort Bragg fever, and Pretibial fever) is a bacterial zoonotic disease caused by spirochaetes of the genus Leptospira that affects humans and a wide range of animals, including mammals, birds, amphibians, and reptiles.
+Simplified output: Leptospirosis (also known as Weil's disease, canicola fever, canefield fever, nanukayami fever or seven day fever) is a bacterial disease. It is caused by spirochaetes of the genus Leptospira.
+--separator--
+Simplify the below text:
+Complex input: United States admission day (1889) of North Dakota and South Dakota as 39th and 40th states.
+Simplified output: United States admission day (1889) of North Dakota and South Dakota. They became the 39th and 40th states.
+--separator--
+Simplify the below text:
+Complex input: The contemporary status of the Mandaeans has prompted a number of American intellectuals and civil rights activists to call for their government to extend refugee status to the community.
+Simplified output: The contemporary status of the Mandaeans has prompted American intellectuals and civil rights activists to call for their government to extend refugee status to the community.
+--separator--
+Simplify the below text:
+Complex input: He was responsible there for music, the organ, directing chants and choir, etc.
+Simplified output: He was the music director.
+--separator--
+Simplify the below text:
+Complex input: Before 1858, the precursor units of the Indian Army were units controlled by the Company and were paid for by their profits.
+Simplified output: Before 1858, the precursor units of the Indian Army were controlled by the Company. Their profits paid for them.
+--separator--
+Simplify the below text:
+Complex input: However, the council was delayed until 1545, and convened right before Luther's death.
+Simplified output: The council did not meet until 1545, right before Luther's death.
+--separator--
+Simplify the below text:
+Complex input: This involved officers from regeneration teams, planning, highways, architects, quantity surveyors, property surveyors, solicitors and finance to name a few.
+Simplified output: This involved officers from regeneration teams, planning, highways, architects, quantity inspector, property inspector, solicitors and finance to name a few.
+--separator--
+Simplify the below text:
+Complex input: Its primary natural purpose is to protect the egg yolk and provide additional nutrition for the growth of the embryo, as it is rich in proteins, though it contains almost no fat, unlike the egg yolk, which has a high fat value.
+Simplified output: The yellow part is called the egg yolk. The egg white holds the egg yolk in place.
+--separator--
+Simplify the below text:
+Complex input: The Village Phone (Polli Phone) project of GP has brought cell-phone ownership to 260,000 rural poor in over 50,000 villages since the beginning of the project in March 1997.
+Simplified output: The Village Phone project has brought cell phones to 260,000 poor people in 50,000 villages.
+--separator--
+Simplify the below text:
+Complex input: In addition, many feel that they are being pathologized for simply being different.
+Simplified output: Also, many feel that they are being treated like they are medically abnormal just because they are different.
+--separator--
+Simplify the below text:
+Complex input: This reflects the fact that the Parliament's President is not part of the executive branch but still ranks higher in (symbolic) importance than the Chancellor.
+Simplified output: This shows how the Parliament's President is not part of the executive branch. They still rank higher in importance than the Chancellor, at least symbolically.
+--separator--
+Simplify the below text:
+Complex input: The Hubble Space Telescope observed Fortuna in 1993.
+Simplified output: The Hubble Space Telescope watched Fortuna in 1993.
+--separator--
+Simplify the below text:
+Complex input: From September 2017, eligible 3 and 4 year olds will be able to double their Free Early Learning, known as' 30 Hours Free Childcare '.
+Simplified output: From September 2017, qualified children age 3 and 4 would be able to double their Free Early Studying, known as '30 Hours Childcare for free'.
+--separator--
+Simplify the below text:
+Complex input: Together they had 18 children, of whom 11 survived to adulthood.
+Simplified output: Together they had 18 children. 11 lived to be adults.
+--separator--
+Simplify the below text:
+Complex input: Among other visitors were Charles Dickens and William Makepiece Thackeray who commissioned him to design the cover for the first edition of the Cornhill Magazine.
+Simplified output: Among other visitors were Charles Dickens and William Makepiece Thackeray.  Thackeray instructed xxx to design the cover for the first edition of the Cornhill Magazine.
+--separator--
+Simplify the below text:
+Complex input: Types of abrasions Colloquially, abrasions caused by contact with textiles or carpeting are referred to as rug burn or carpet burn.
+Simplified output: Skin damage caused by contact with textiles or carpeting is called rug burn or carpet burn.
+--separator--
+Simplify the below text:
+Complex input: It was formerly one of the products of gasworks.
+Simplified output: It used to be one of the products of gasworks.
+--separator--
+Simplify the below text:
+Complex input: It allows us to designate for Selective Licensing areas that are suffering from either low housing demand and/or significant and persistent anti-social behaviour.
+Simplified output: It allows us to set aside for Selective Licensing areas that are suffering from either low housing demand and/or significant and regular anti-social behaviour
+--separator--
+Simplify the below text:
+Complex input: 22 Kalliope (,) is a large main belt asteroid of the M-type, discovered by J. R. Hind on November 16, 1852.
+Simplified output: The 22 Kalliope is an M-type asteroid. It is large. It is located on the main belt. J.R. Hind found it in 1852.
+--separator--
+Simplify the below text:
+Complex input: Duke blows up stained glass windows in an empty church or goes to strip clubs where Japanese women lower their kimonos exposing their breasts.
+Simplified output: Duke blows up stained glass windows in an empty church or goes to strip clubs where Japanese women lower their kimonos exposing their breasts.
+--separator--
+Simplify the below text:
+Complex input: He tossed Jörmungandr into the great ocean that encircles Midgard.
+Simplified output: He threw Jormungandr into the ocean around Midgard.
+--separator--
+Simplify the below text:
+Complex input: The images taken after the probe's landing show a flat plain covered in pebbles.
+Simplified output: The probe's landing pictures show a flat land covered in small stones.
+--separator--
+Simplify the below text:
+Complex input: Similarly, physical trauma is not accepted as a cause for cervical cancer, breast cancer, or brain cancer.
+Simplified output: Some of the most common include breast cancer, brain cancer, leukemia, testicular cancer, mesothelioma, and lung cancer. Breast cancer begins in the breast.
+--separator--
+Simplify the below text:
+Complex input: Alkaloids are produced by a large variety of organisms, including bacteria, fungi, plants, and animals and are part of the group of natural products (also called secondary metabolites).
+Simplified output: Varieties of organisms can produce Alkaloids. Including bacteria, fungi, plants, and animals.
+--separator--
+Simplify the below text:
+Complex input: At that time, the area contained the Greta Swamp, which was later drained.
+Simplified output: The area contained the Greta Swamp, which was later drained.
+--separator--
+Simplify the below text:
+Complex input: On 28 March 1941, Woolf committed suicide.
+Simplified output: Woolf killed herself on March 28, 1941.
+--separator--
+Simplify the below text:
+Complex input: Candidates must produce their full driving licence at the time of the test, for holders of photo-card licences both parts must be presented.
+Simplified output: People taking their test must show their full driving licence. If you have a photo-card, you must show this and the paper part of your licence.
+--separator--
+Simplify the below text:
+Complex input: After DNA replication, the two sister chromatids align side-by-side and appear to have an undivided centromere, in contrast to mitosis, in which each chromatid appears to have its own separate centromere.
+Simplified output: Chromatids are the daughter strands of a duplicated chromosome which are joined by a single centromere. When the centromere divides, the chromatids become separate chromosomes.
+--separator--
+Simplify the below text:
+Complex input: In the first two chambers, the rumen and the reticulum, the food is mixed with saliva and separates into layers of solid and liquid material.
+Simplified output: In the first two chambers, the rumen and the reticulum, the food is mixed with saliva and separates into layers of solid and liquid material.
+--separator--
+Simplify the below text:
+Complex input: Your income and savings won ’ t affect your entitlement to Second Adult Rebate, because it is based on the other person's circumstances.
+Simplified output: Your income and savings won’t affect your right to Second Adult Rebate, because it is based on the other person's situation.
+--separator--
+Simplify the below text:
+Complex input: It is the central datum point for measuring distances from London.
+Simplified output: It is the central point for measuring distances from London.
+--separator--
+Simplify the below text:
+Complex input: The inner eyewall dissipated as a 23 mile (37 km) outer eyewall became dominant, and concurrently the overall organization of the hurricane improved.
+Simplified output: The inner eyewall subsided as a 23-mile (37 km) outer eyewall became dominant and, at the same time, the overall organization of the hurricane improved.
+--separator--
+Simplify the below text:
+Complex input: Tzu Chi was the first force from outside the People's Republic of China to join the rescue effort.
+Simplified output: Tzu Chi was first from outside the Republic of China to join the rescue.
+--separator--
+Simplify the below text:
+Complex input: Historically mills were powered by hand (mortar and pestle), working animal, wind (windmill) or water (watermill).
+Simplified output: Before now, Mills were powered by hand (mortal and pestle), working animal, wind (windmill) or water (watermill).
+--separator--
+Simplify the below text:
+Complex input: The White Sox play in the American League's Central Division.
+Simplified output: The White Sox play in the Central Division of the American League.
+--separator--
+Simplify the below text:
+Complex input: It consists of the Royal Australian Navy, the Australian Army, the Royal Australian Air Force and a number of 'tri-service' units.
+Simplified output: The Royal Australian Navy, Australian Army, Royal Austrailian Air Force, and some 'tri-service' units are included.
+--separator--
+Simplify the below text:
+Complex input: Over 6,000 navvies were hired for up to two years building, blasting and clearing rubble beneath the South Downs to create Clayton Tunnel.
+Simplified output: More than 6,000 navvies were hired to build and remove rubble under the South Downs to build Clayton Tunnel.
+--separator--
+Simplify the below text:
+Complex input: This document will now need to be formally submitted to the Local Planning Authority for approval and, after this, the fieldwork can then commence.
+Simplified output: This document now has to be formally sent to the Local Planing Authority for approval, after which the fieldwork can begin.
+--separator--
+Simplify the below text:
+Complex input: Its distinctive speckled colouration has given it a common name of Magpie Moth.
+Simplified output: Because of its distinctive speckles, it is called the Magpie Moth.
+--separator--
+Simplify the below text:
+Complex input: You can choose not to see each other before your ceremony, and can ‘make an entrance’ to the Arundel, Norfolk or Hallam room escorted by a relative or friend.
+Simplified output: You can choose not to see each other before your ceremony, and can ‘make an entrance’ to the Arundel, Norfolk or Hallam room with a relative or friend
+--separator--
+Simplify the below text:
+Complex input: The drug also extends the time before a patient needs ventilation support.
+Simplified output: The drug also extends the time before a patient needs breathing support.
+--separator--
+Simplify the below text:
+Complex input: Lisa Gerrard (born April 12, 1961) is an Australian musician, singer and composer who rose to prominence as part of the music group Dead Can Dance with former music partner Brendan Perry.
+Simplified output: Lisa5-007 (born April 12, 1961) is an Australian musician, singer and composer who has made a name for himself as part of the Dead Can Dance music group with former music partner Brendan Perry.
+--separator--
+Simplify the below text:
+Complex input: Specific reliability issues may include: The system can not safely be shut down for repair, or it is too inaccessible to repair.
+Simplified output: There are specific reliability issues. The system can not safely be shut down for repair. Also, it could be difficult to access for repair.
+--separator--
+Simplify the below text:
+Complex input: The statement says how we are consulting people and organisations on the preparation of the Sheffield Plan and also on planning applications.
+Simplified output: The statement says how we are consulting people and organisations to prepare the Sheffield Plan and planning applications.
+--separator--
+Simplify the below text:
+Complex input: It was not detected again until the Hubble Space Telescope observed it in 1997.
+Simplified output: It was next seen by the Hubble Space Telescope in 1997.
+--separator--
+Simplify the below text:
+Complex input: The collective term for all types of ammunition is munitions.
+Simplified output: Military weapons are called munitions.
+--separator--
+Simplify the below text:
+Complex input: Assuming good faith does not prohibit discussion and criticism, but instead editors should not attribute the actions being criticized to malice unless there is specific evidence of malice.
+Simplified output: If we believe good faith won't stop discussion and criticism, then editors should not say the actions are out of malice without evidence of malice.
+--separator--
+Simplify the below text:
+Complex input: Its symbol is "$", with "RD $" used when distinction from other pesos (or dollars) is required; its ISO 4217 code is "DOP".
+Simplified output: it uses $ or "RD $" to tell the difference from other pesos (or dollars) if needed. its ISO 4217 code is "DOP".
+--separator--
+Simplify the below text:
+Complex input: However, he was criticised for the UN's failure to act during the 1994 Rwandan Genocide, which officially left over 1 million people dead, and he appeared unable to muster support in the UN for intervention in the continuing Angolan Civil War.
+Simplified output: He was criticised for the UN's failure to act during the 1994 Rwandan killings. This left over 1 million people dead, he also couldn't get support to help end the Angolan Civil War.
+--separator--
+Simplify the below text:
+Complex input: Synopsis Place: A Spanish state prison, a few miles from Seville Time: Late 1700s.
+Simplified output: Place: A Spanish state prison near Seville. Time: Late 1700s.
+--separator--
+Simplify the below text:
+Complex input: Anyone over the age of 18 can be appointed as your proxy, as long as they are eligible to vote in the election and are willing to vote on your behalf.
+Simplified output: Anyone over the age of 18 can be chosen as your representative, as long as they are able to vote in the election and want to vote on your behalf.
+--separator--
+Simplify the below text:
+Complex input: The team was founded by Alexander Cartwright, considered one of the original developers of modern baseball.
+Simplified output: Alexander Cartwright founded the team. He is considered an original founder of modern baseball.
+--separator--
+Simplify the below text:
+Complex input: Launched in 1994, InStyle currently has a circulation of 1.7 million.
+Simplified output: InStyle launched in 1994. It currently circulates to 1.7 million.
+--separator--
+Simplify the below text:
+Complex input: Super Mario RPG: Legend of the Seven Stars, often shortened and officially known in Japan as, is a hybrid adventure / console role-playing game developed and published by Square (now Square Enix) and Nintendo.
+Simplified output: Super Mario RPG: Legend of the Seven Stars is often shortened and officially known in Japan as, . It is a hybrid adventure / role-playing game. It is made and published by Square (now Square Enix) and Nintendo.
+--separator--
+Simplify the below text:
+Complex input: Fossils Canowindra is the site of one of the world's great fossil discoveries.
+Simplified output: One of the world's greatest fossil discoveries was made at Canowindra.
+--separator--
+Simplify the below text:
+Complex input: The Odyssey is an ancient Greek epic poem attributed to Homer.
+Simplified output: The Odyssey is an ancient Greek poem byHomer.
+--separator--
+Simplify the below text:
+Complex input: Banana paper is used in two different senses: to refer to a paper made from the bark of the banana plant, mainly used for artistic purposes, or paper made from banana fiber, obtained with an industrialized process from the stem and the non-usable fruits.
+Simplified output: There are two different kinds of banana paper: That made from the bark, which is mainly used for art. Paper can also be made from the fiber and from unused fruits.
+--separator--
+Simplify the below text:
+Complex input: It is the fourth and final novel in his Hyperion Cantos fictional universe.
+Simplified output: It's the last book in his Hyperion Cantos series.
+--separator--
+Simplify the below text:
+Complex input: Customary tenants, the most significant of which were copyholders, held land by an agreement made at the manor court which was entered on its roll, a 'copy' of which was regarded as proof of title.
+Simplified output: Customary tenants, the most important of which were copyholders, owned land by an agreement made at the manor court which was entered on its record, a 'copy' of which was seen as proof of title.
+--separator--
+Simplify the below text:
+Complex input: Section 47 of the Copyright, Designs and Patents Act 1988 protects plans, drawings and material submitted to Sheffield City Council which is required by law to be open to public inspection or on a public register, such as materials used for the purpose of obtaining planning consent.
+Simplified output: Section 47 of the Copyright, Designs and Patents Act 1988 protects plans, drawings and material submitted to Sheffield City Council which is required by law to be open to public inspection or on a public record, such as materials used for the purpose of getting planning permission.
+--separator--
+Simplify the below text:
+Complex input: It was founded circa 1958 – 1959 by Malaclypse the Younger with the publication of its principal text, the Principia Discordia.
+Simplified output: It was founded around 1958 by Malaclypse the Younger with the publication of its principal text, the Principia Discordia.
+--separator--
+Simplify the below text:
+Complex input: We have developed a toolkit with 5 tools to support people and organisations in implementing the learning from the training.
+Simplified output: We have developed a toolkit with 5 tools. Its purpose is to support people and organisations in applying the learning from the training.
+--separator--
+Simplify the below text:
+Complex input: All new non-residential developments over 500 square metres gross internal floor space should achieve a BREEAM rating of "very good".
+Simplified output: All new non-housing projects over 500 square metres gross inside floor space should get a BREEAM rating of "very good".
+--separator--
+Simplify the below text:
+Complex input: Implementations SSL and TLS have been widely implemented in several open source software projects.
+Simplified output: Implementations SSL and TLS have been widely done in some open source software projects.
+--separator--
+Simplify the below text:
+Complex input: The Hubble Space Telescope observed Fortuna in 1993.
+Simplified output: Fortuna was seen by the Hubble Space Telescope in 1993.
+--separator--
+Simplify the below text:
+Complex input: However, some performances connected to the festival take place before and after the official dates.
+Simplified output: However, some festival performances are before and after the official dates.
+--separator--
+Simplify the below text:
+Complex input: At Saturday Night's Main Event, Batista won a six man tag match with Rey Mysterio and Bobby Lashley taking on King Booker, Finlay, and Mark Henry.
+Simplified output: At Saturday Night's Main Event, Batista won a six man tag match with Rey Mysterio and Bobby Lashley. They were taking on King Booker, Finlay, and Mark Henry.
+--separator--
+Simplify the below text:
+Complex input: Contact between visiting seamen and prisoners was barred.
+Simplified output: Contact between visiting seamen and prisoners was stopped.
+--separator--
+Simplify the below text:
+Complex input: South India is the area encompassing India's states of Andhra Pradesh, Karnataka, Kerala and Tamil Nadu as well as the union territories of Lakshadweep and Pondicherry, occupying 19.31% of area.
+Simplified output: South India is an area covering the Indian states of Andhra Pradesh, Karnataka, Kerala and Tamil Nadu, as well as the Lakshadweep and Pondicherry Union Territories, which occupy 19.31% of the area.
+--separator--
+Simplify the below text:
+Complex input: Tracking northwestward, the depression moved ashore near Fort Walton Beach early on September 22, and shortly thereafter it dissipated over southeastern Alabama.
+Simplified output: Moving northwestward, the depression came onto land near Fort Walton Beach early on September 22, and shortly later, it dissipated over southeastern Alabama.
+--separator--
+Simplify the below text:
+Complex input: In the case above the photoreceptors for red light in the retina are fatigued, lessening their ability to send the information to the brain.
+Simplified output: When photoreceptors are fatigued they are less able to send information to the brain.
+--separator--
+Simplify the below text:
+Complex input: If it doesn’t proceed after that time (and there is no obligation to proceed) then other options can be more fully considered at that stage.
+Simplified output: If it doesn’t proceed after that time (and there is no obligation to proceed) then other options can be more fully considered at that stage.
+--separator--
+Simplify the below text:
+Complex input: The storm continued, crossing the Outer Banks of North Carolina, and retained its strength until June 20 when it became extratropical near Newfoundland.
+Simplified output: The storm traveled the Outer Banks of NC. It didn't lose strength until it approached Newfoundland on June 20th.
+--separator--
+Simplify the below text:
+Complex input: On Sunday, August 28, Canadian National Railway (CN) suspended all rail traffic on its lines south of McComb, Mississippi (lines owned by its subsidiary Illinois Central Railroad that extend into New Orleans), in anticipation of damage from the hurricane.
+Simplified output: On Sunday, August 28, the Canadian National Railway (CN) banned all rail traffic on its lines south of McComb, Mississippi (lines owned by its holding company Illinois Central Railroad, which expands to New Orleans), in anticipation of damage caused by the hurricane.
+--separator--
+Simplify the below text:
+Complex input: Lascaux is the setting of a complex of caves in southwestern France famous for its Paleolithic cave paintings.
+Simplified output: The setting is in Lascaux, France, a place famous for its complex Paleolithic cave paintings.
+--separator--
+Simplify the below text:
+Complex input: This tree is a frequent destination for pilgrims, being the most important of the four main Buddhist pilgrimage sites.
+Simplified output: This tree is a common location for pilgrims, the most important of the four main Buddhist pilgrimage sites.
+--separator--
+Simplify the below text:
+Complex input: Turkestan (literally meaning "Land of the Turks") is a region in Central Asia, which today is largely inhabited by Turkic peoples.
+Simplified output: Turkestan means "Land of the Turks". It is a region in Central Asia that is largely inhabited by Turkic peoples.
+--separator--
+Simplify the below text:
+Complex input: It is a rather short book, in both Jewish and Christian scripture, consisting of only four chapters.
+Simplified output: It is a short book. In both Jewish and Christian scripture, it consists of only four chapters.
+--separator--
+Simplify the below text:
+Complex input: Orenthal James "O. J." Simpson (born July 9, 1947), nicknamed "The Juice", is a retired American football player, actor, spokesman, and convicted felon.
+Simplified output: Orenthal James "O. J." Simpson was born July 9th, 1947. He was nicknamed The Juice. He is a retired American football player, actor, spokesman, and a convicted felon.
+--separator--
+Simplify the below text:
+Complex input: Pasargadae remained the Persian capital until Darius founded another in Persepolis.
+Simplified output: Pasargadae was the Persian capital until Darius named one in Persepolis.
+--separator--
+Simplify the below text:
+Complex input: In 2006, he co-starred in the independent film Manhattan Minute.
+Simplified output: In 2006, he appeared in the film Manhattan Minute.
+--separator--
+Simplify the below text:
+Complex input: The attempts at mutiny in 1915 and the Lahore conspiracy trials were still in public attention.
+Simplified output: The public still remembered the attempted mutiny in 1915 and the Lahore conspiracy trials.
+--separator--
+Simplify the below text:
+Complex input: Background DES uses a 56 - bit key, meaning that there are 256 possible keys under which a message can be encrypted.
+Simplified output: Background DES uses a 56 - bit key. This means that there are 256 possible keys under which a message can be made secure.
+--separator--
+Simplify the below text:
+Complex input: However, he was criticised for the UN's failure to act during the 1994 Rwandan Genocide, which officially left over 1 million people dead, and he appeared unable to muster support in the UN for intervention in the continuing Angolan Civil War.
+Simplified output: He was blamed for the UN's failure to act during the 1994 Rwandan Genocide, which left over 1 million people dead, and he appeared unable to gather support in the UN for intervention in the continuing Angolan Civil War.
+--separator--
+Simplify the below text:
+Complex input: Currently Secretary of State for Culture, Media and Sport and Minister for the South West, he was one of the first openly gay MPs.
+Simplified output: Secretary of State for Culture, Media and Sport and Minister for the South West, is one of the first gay MPs.
+--separator--
+Simplify the below text:
+Complex input: In the a mathematics, a product is the result of multiplying, or an expression that identifies factors to be multiplied.
+Simplified output: In math, a product is a result of multiplying or is an expression that calls for factors to be multiplied.
+--separator--
+Simplify the below text:
+Complex input: There are options for parents to consider as long as they comply with the law which requires pupils to be in full time education from the beginning of the term following their 5th birthday.
+Simplified output: There are options for parents to consider as long as they follow the law which require pupils to be in full time education from the beginning of the term following their 5th birthday.
+--separator--
+Simplify the below text:
+Complex input: Marshall is well-known for proving that the bacterium Helicobacter pylori (H. pylori) is the cause of most peptic ulcers, reversing decades of medical doctrine holding that ulcers were caused by stress, spicy foods, and too much acid.
+Simplified output: Marshall is well-known for proving that bacteria Helicobacter pylori are the cause of most stomach ulcers. This changed years of medical belief which said that ulcers were caused by stress, spicy foods, and too much acid.
+--separator--
+Simplify the below text:
+Complex input: Her active repertoire spans from Bach to Penderecki, from Vivaldi to Shostakovitch, containing over 40 works with orchestra and about 60 works of chamber music.
+Simplified output: 40 works with an orchestra and about 60 works of chamber music. She has a huge active catalog.
+--separator--
+Simplify the below text:
+Complex input: Information on births, marriages and deaths held by local registrars and the GRO is only available in the form of a certificate, issued on payment of a fee.
+Simplified output: Information on births, marriages and deaths held by local registrars and the GRO is only available in the form of a certificate, after paying a fee.
+--separator--
+Simplify the below text:
+Complex input: The first minaret was constructed in 665 in Basra during the reign of the Umayyad caliph Muawiyah I. Muawiyah encouraged the construction of minarets, as they were supposed to bring mosques on par with Christian churches with their bell towers.
+Simplified output: The first minaret was constructed in Basra during the ruling of Muawiyah. He motivated the construction of minarets to bring mosques on par with Christian churches.
+--separator--
+Simplify the below text:
+Complex input: He is also co-creator of the short-lived cult television show Profit.
+Simplified output: He helped create the television show Profit. It was on for a brief time.
+--separator--
+Simplify the below text:
+Complex input: The author (s) and publisher (s) of the Document do not by this License give permission to use their names for publicity for or to assert or imply endorsement of any Modified Version.
+Simplified output: Those who created the document do not allow their names to be used for publicity or endorsement.
+--separator--
+Simplify the below text:
+Complex input: To provide water for its steam locomotives, the Commissioners decided to provide a dam and pump water from it to a facility, known as Young Tank, at the post.
+Simplified output: The Commissioners built a dam to provide water for its steam locomotives. They pumped water from it to a facility, known as Young Tank, at the post.
+--separator--
+Simplify the below text:
+Complex input: If the account was originally sent in the name of the person who has gone into care, or jointly with a partner or other occupier, a revised account will be issued to the remaining occupier(s).
+Simplified output: If the account was originally sent in the name of the person who has gone into care, or jointly with a partner or other occupier, a revised account will be emitted to the remaining occupier(s).
+--separator--
+Simplify the below text:
+Complex input: Palestinian voters in the Gaza Strip and the West Bank including East Jerusalem were eligible to participate in the election.
+Simplified output: Palestinian voters from the Gaza Strip and the West bank were allowed to vote in the election.
+--separator--
+Simplify the below text:
+Complex input: In modern days, joss sticks can be used for any purpose, such as to enhance the smell of a room, or to light fire crackers.
+Simplified output: Joss sticks are multi purpose and can enhance the smell of a room or light fire crackers.
+--separator--
+Simplify the below text:
+Complex input: However, some viruses including those causing AIDS and viral hepatitis evade these immune responses and result in chronic infections.
+Simplified output: However, some viruses including those causing AIDS and viral hepatitis evade these immune responses and result in chronic infections.
